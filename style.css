@@ -131,6 +131,7 @@ body::-webkit-scrollbar-thumb {
 
 #social-network {
     cursor: pointer;
+    text-decoration: none;
     font-family: "Social Media";
     font-size: 50px;
 }
